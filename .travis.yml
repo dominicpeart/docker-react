@@ -7,3 +7,6 @@ before_install:
 
 script:
   - docker run -e CI=true xdmncx/docker-react npm run test
+
+
+#test
